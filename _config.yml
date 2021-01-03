@@ -16,8 +16,6 @@
 title: Youhktech
 subtitle: A tech blog
 logo: "/assets/images/bio-photo.jpg"
-comments:
-  provider: "facebook"
 email: youssefkanso9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   #Write an awesome description for your new site here. You can edit this
@@ -103,6 +101,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+        provider: "facebook"
       share: true
       related: true
   # _pages
