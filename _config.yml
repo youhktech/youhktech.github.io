@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Youhktech
 subtitle: A tech blog
-logo: "/assets/images/bio-photo.png"
+logo: "/assets/images/bio-photo.jpg"
 comments:
   provider: "facebook"
 email: youssefkanso9@gmail.com
@@ -124,7 +124,7 @@ tag_archive:
 # Headers
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/simpleheader.jpg
+  image: "/assets/images/simpleheader.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
