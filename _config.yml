@@ -117,5 +117,5 @@ tag_archive:
 
 # Headers
 header:
-  image: /assets/images/simpleheader.jpg
+  image: "/assets/images/simpleheader.jpg"
   image_description: "A description of the image"
