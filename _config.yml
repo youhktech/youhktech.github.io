@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Youssef Kanso"
-  avatar : "/assets/images/avatar.jpeg"
+  avatar : "/assets/images/bio-header.jpeg"
   bio    : "Someone who loves Math, coffee and Data Science in any order"
   links:
     - label: "Website"
