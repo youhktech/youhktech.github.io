@@ -119,6 +119,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Setting default teaser
+# to change this default teaser just apply
+# header:
+#   teaser: /assets/images/name-of-image.jpg in the .md archive
+teaser: /assets/images/500x300.png
 
 # Headers
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
