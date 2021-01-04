@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Youssef Kanso"
   avatar : "/assets/images/bio-photo2.jpeg"
-  bio    : "Someone who loves Math, coffee and Data Science in any order"
+  bio    : "Someone who loves Math, coffee, Marketing and Data Science in any order"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
