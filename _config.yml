@@ -123,7 +123,7 @@ tag_archive:
 # to change this default teaser just apply
 # header:
 #   teaser: /assets/images/name-of-image.jpg in the .md archive
-teaser: /assets/images/bio-photo.png
+teaser: /assets/images/simpleheader.jpg
 
 # Headers
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
