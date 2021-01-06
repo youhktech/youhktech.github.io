@@ -27,6 +27,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "aqua"
 search: true
+search_provider : "google"
 
 # Build settings
 markdown: kramdown
