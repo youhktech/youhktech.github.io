@@ -17,12 +17,7 @@ title: Youhktech
 subtitle: A tech blog
 logo: "/assets/images/youktech.png"
 email: youssefkanso9@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
-  Content about - Salesforce Marketing Cloud, Data Science, Math
-  and also my own ideas. Feel free to contact me.
+description: "Content about - Salesforce Marketing Cloud, Data Science, Math and also my own ideas. Feel free to contact me."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "aqua"
