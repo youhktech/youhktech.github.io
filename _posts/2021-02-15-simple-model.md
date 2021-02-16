@@ -1,6 +1,7 @@
 ---
 title: "Post: Model"
 excerpt_separator: "<!--more-->"
+layout: splash
 categories:
   - Blog
 tags:
