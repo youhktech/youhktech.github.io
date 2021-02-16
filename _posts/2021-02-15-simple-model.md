@@ -1,17 +1,17 @@
 ---
 header:
-    #image: /assets/images/header3.jpg
-    teaser: /assets/images/header3.jpg
-    overlay_image: /assets/images/header3.jpg
+    image: assets/images/images_unsplash_com-photo-1596627008830-41d373a44a96.png
+    #teaser: /assets/images/header3.jpg
+    #overlay_image: /assets/images/header3.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 
 
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+#toc: true
+#toc_label: "My Table of Contents"
+#toc_icon: "cog"
 
 categories:
   - Blog
