@@ -1,11 +1,13 @@
 ---
 title: "Post: Standard"
-excerpt_separator: "<!--more-->"
 header:
     #image: /assets/images/header3.jpg
     teaser: /assets/images/header3.jpg
     overlay_image: /assets/images/header3.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    
+excerpt_separator: "<!--more-->"
+
 
 toc: true
 toc_label: "My Table of Contents"
