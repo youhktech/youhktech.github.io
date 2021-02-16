@@ -9,10 +9,10 @@ tags:
   - readability
   - standard
 header:
-    #image: /assets/images/header3.jpg
+    image: /assets/images/header3.jpg
     teaser: /assets/images/header3.jpg
-    overlay_image: /assets/images/header3.jpg
-
+    #overlay_image: /assets/images/header3.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 toc: true
 toc_label: "My Table of Contents"
