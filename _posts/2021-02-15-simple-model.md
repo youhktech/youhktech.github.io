@@ -1,6 +1,5 @@
 ---
-title: "Post: Model"
-excerpt_separator: "<!--more-->"
+title: "Simple model"
 layout: splash
 categories:
   - Blog
@@ -18,7 +17,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
-
+I think this will appear inside splash
 
 
 ```yaml
