@@ -18,6 +18,8 @@ subtitle: A tech blog
 logo: "/assets/images/youktech.png"
 email: youssefkanso9@gmail.com
 description: "Content about - Salesforce Marketing Cloud, Data Science, Math and also my own ideas. Feel free to contact me."
+port: 4000
+host: "0.0.0.0"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "aqua"
